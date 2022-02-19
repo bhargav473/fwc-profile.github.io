@@ -276,7 +276,9 @@ a.article:hover {
         margin-bottom: 20px;
     }
 
-
+.profile-text h2{
+	margin-top :5%
+}
 
     .profile-dropdown::after{
         right: 20% !important;
