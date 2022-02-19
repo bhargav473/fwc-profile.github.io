@@ -371,7 +371,7 @@ a.article:hover {
 
 .profile-text p{
  
-    font-size: 12px;
+    font-size: 14px;
     /* color: gray; */
     font-weight: 400;
     margin-bottom: 0px
@@ -400,7 +400,7 @@ a.article:hover {
     box-shadow: inset -3px 0 0 #f7f7f7;
 }
 .data-f h5,p{
-    font-size: 12px;
+    font-size: 14px;
    
     
 }
